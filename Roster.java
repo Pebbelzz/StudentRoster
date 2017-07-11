@@ -1,6 +1,4 @@
-/**
- * Created by Josie on 7/10/2017.
- */
+
 import java.util.ArrayList;
 public class Roster {
 
