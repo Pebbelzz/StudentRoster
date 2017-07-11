@@ -57,10 +57,10 @@ public class Student {
     public void print(){
         System.out.println(
                 "Student ID: " + getStudentID() +
-                        " | First Name: " + getFirstName() +
-                        " | Last Name: " + getLastName() +
-                        " | Email Address: " + getEmail() +
-                        " | Age: " + getAge()
+                        "\t| First Name: " + getFirstName() +
+                        "\t| Last Name: " + getLastName() +
+                        "\t| Email Address: " + getEmail() +
+                        "\t| Age: " + getAge()
         );
     }
 }
