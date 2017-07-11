@@ -1,6 +1,4 @@
-/**
- * Created by Josie on 7/10/2017.
- */
+
 public class Student {
 
     //instance variables
